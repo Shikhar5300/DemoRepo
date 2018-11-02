@@ -33,5 +33,8 @@ public class DemoTest {
 		int b=20;
 		Assert.assertEquals(2, b/a);
 	}
+	public void sss() {
+		System.out.println("test");
+	}
 
 }
